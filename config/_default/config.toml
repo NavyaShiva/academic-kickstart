@@ -23,12 +23,6 @@ copyright = ""
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 
-# figuring out Netlify admin
-backend:
-  name: git-gateway
-  repo: https://github.com/ShivaNavya/academic-kickstart
-  branch: master
-
 # Get last modified date for content from Git?
 enableGitInfo = false
 
