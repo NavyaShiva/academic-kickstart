@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Navya Shiva
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Masters in Business Analytics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Illinois at Chicago
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: test test etstttstststtstststststtstststststtsts
 
 interests:
 - Artificial Intelligence
