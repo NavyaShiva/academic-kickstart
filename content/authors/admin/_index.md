@@ -21,21 +21,18 @@ organizations:
 bio: test test etstttstststtstststststtstststststtsts
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistics
+- Machine Learning
+- Text Mining
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Business Analytics
+    institution: University of Illinois at chicago
+    year: Dec 2020
+  - course: BTech in Chemical Engineering 
+    institution: National Institute of Technology Warangal
+    year: April 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
