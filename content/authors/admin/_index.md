@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Highly motivated data science graduate, applied machine learning concepts and derived business insights on different types of datsets like text, image, table. 
+bio: Highly motivated data science graduate, applied machine learning concepts on different types of datsets like text, image, table and derived business insights. 
 
 interests:
 - Statistics
@@ -67,6 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Highly motivated Data science graduate having 3+ years’ experience using predictive modelling, data mining and deep learning. Proficient in R, Python, SQL, Tableau, and Power BI using which I have created numerous machine learning models, optimized queries and built interactive dashboards to tackle several business problems. Experienced in creating Machine Learning Applications with ML using R, Python. Aspiring to bring actionable outputs using Data science skills to real-world industry problems. 
