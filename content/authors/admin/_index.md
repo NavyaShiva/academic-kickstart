@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Highly motivated data science graduate derived insights on different types of datsets 
+bio: Highly motivated data science graduate, applied machine learning concepts and derived business insights on different types of datsets like text, image, table. 
 
 interests:
 - Statistics
