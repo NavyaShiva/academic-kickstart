@@ -1,6 +1,6 @@
 +++
 # Real time Applications widget.
-widget = "real time applications"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "realtimeapplications"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
@@ -17,13 +17,13 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[real time applications]]
+[[realtimeapplications]]
   title = "Twitter Topic Modeling Application"
-#  company = "University of Illinois at Chicago"
+  company = "University of Illinois at Chicago"
   company_url = ""
-#  location = "Chicago, USA"
-#  date_start = "2019-10-01"
-#  date_end = ""
+  location = "Chicago, USA"
+  date_start = "2019-10-01"
+  date_end = ""
   description = """
   Developed an application that applies topic modeling on the tweets of a subject using unsupervised LDA, and semi-supervised CorEx. Obtained the 
   latent topics, analyzed their distribution and their sentiment over the weeks. Deployed the same in production using Azure ML deployment.
