@@ -50,4 +50,17 @@ date_format = "Jan 2006"
   enabled better decision making of store operations and  improved profits by 67%.  <br />
   Tools and Methods - Power BI  <br />
   """
+ [[experience]]
+  title = "Machine Learning Intern"
+  company = "University of Illinois at Chicago"
+  company_url = ""
+  location = "Chicago, USA"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """
+  Built empirical model using Lasso regression with waiting effect, satiation effect of marketing tactic. Used Inverse Reinforcement learning as a constraint to attribute
+  Lift to each tactic for each week. Obtained the path that led to maximum lift (3%) through optimization. 
+  
+  Tools and Methods - Inverse Reinforcement Learning, Optimization, Gurobi, Python, ETL
+  """
 +++
