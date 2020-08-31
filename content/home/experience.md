@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Built empirical model using Lasso regression with waiting effect, satiation effect of marketing tactic. Used Inverse Reinforcement learning as a constraint to attribute
   Lift to each tactic for each week. Obtained the path that led to maximum lift (3%) through optimization. 
   
-  Tools: [Inverse Reinforcement Learning | Optimization |  Gurobi  | Python | ETL]
+  Tools: Inverse Reinforcement Learning, Optimization, Gurobi, Python, ETL
   """
 
 [[experience]]
