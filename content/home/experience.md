@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Built empirical model using Lasso regression with waiting effect, satiation effect of marketing tactic. Used Inverse Reinforcement learning as a constraint to attribute
   Lift to each tactic for each week. Obtained the path that led to maximum lift (3%) through optimization. 
   
-  Tools: Inverse Reinforcement Learning, Optimization, Gurobi, Python, ETL
+  Tools and Methods - Inverse Reinforcement Learning, Optimization, Gurobi, Python, ETL
   """
 
 [[experience]]
@@ -39,7 +39,15 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = ""
   description = """
-  Budget Forecasting-  Based on trends and seasonality, developed a forecasting model (ARIMA) to predict the Net sales for 2019. Predicted with an accuracy of 92%
-
+  •	Budget Forecasting-  Based on trends and seasonality, developed a forecasting model (ARIMA) to predict the Net sales for 2019. Predicted with an accuracy of 92%.  
+  Tools and Methods - Python, Excel, Sales foresasting
+  •	Built a demand forecast model using Random forest by combining the product features and customer segmented clusters generated using K-Means with an accuracy of 82%. 
+  Tools and Methods - Python, Scikit-Learn 
+  •	Automated  the bi-weekly Net sales analysis report by data modelling to gather, transform, and aggregate the real-time global markets sales data using PySpark, that has
+  reduced the cost of operation by $20K. 
+  Tools and Methods - Python, PySpark, Tableau, SQL
+  •	Product Profitability Analysis: Evaluated SKU level profitability and identified best products by region, and by category. Built interactive dashboard on Power BI which
+  enabled better decision making of store operations and  improved profits by 67%.
+  Tools and Methods - Power BI 
   """
 +++
