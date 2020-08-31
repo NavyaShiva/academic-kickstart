@@ -27,15 +27,19 @@ date_format = "Jan 2006"
   description = """
   Built empirical model using Lasso regression with waiting effect, satiation effect of marketing tactic. Used Inverse Reinforcement learning as a constraint to attribute
   Lift to each tactic for each week. Obtained the path that led to maximum lift (3%) through optimization. 
+  
+  Tools: [Inverse Reinforcement Learning | Optimization |  Gurobi  | Python | ETL]
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Data Scientist"
+  company = "Merilytics"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Hyderabad, India"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """
+  Budget Forecasting-  Based on trends and seasonality, developed a forecasting model (ARIMA) to predict the Net sales for 2019. Predicted with an accuracy of 92%
 
+  """
 +++
