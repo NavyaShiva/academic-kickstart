@@ -39,15 +39,15 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = ""
   description = """
-  •	Budget Forecasting-  Based on trends and seasonality, developed a forecasting model (ARIMA) to predict the Net sales for 2019. Predicted with an accuracy of 92%.  
-  Tools and Methods - Python, Excel, Sales foresasting
-  •	Built a demand forecast model using Random forest by combining the product features and customer segmented clusters generated using K-Means with an accuracy of 82%. 
-  Tools and Methods - Python, Scikit-Learn 
+  •	Budget Forecasting-  Based on trends and seasonality, developed a forecasting model (ARIMA) to predict the Net sales for 2019. Predicted with an accuracy of 92%.  <br />
+  Tools and Methods - Python, Excel, Sales foresasting  <br />
+  •	Built a demand forecast model using Random forest by combining the product features and customer segmented clusters generated using K-Means with an accuracy of 82%.  <br />
+  Tools and Methods - Python, Scikit-Learn  <br />
   •	Automated  the bi-weekly Net sales analysis report by data modelling to gather, transform, and aggregate the real-time global markets sales data using PySpark, that has
-  reduced the cost of operation by $20K. 
-  Tools and Methods - Python, PySpark, Tableau, SQL
+  reduced the cost of operation by $20K.  <br />
+  Tools and Methods - Python, PySpark, Tableau, SQL  <br />
   •	Product Profitability Analysis: Evaluated SKU level profitability and identified best products by region, and by category. Built interactive dashboard on Power BI which
-  enabled better decision making of store operations and  improved profits by 67%.
-  Tools and Methods - Power BI 
+  enabled better decision making of store operations and  improved profits by 67%.  <br />
+  Tools and Methods - Power BI  <br />
   """
 +++
