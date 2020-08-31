@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: test test etstttstststtstststststtstststststtsts
+bio: Highly motivated data science graduate derived insights on different types of datsets 
 
 interests:
 - Statistics
