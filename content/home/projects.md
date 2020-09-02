@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Supervised Learning"
-    tag = "SL"
- 
+    name = "Machine Learning"
+    tag = "ML"
+  
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Healthcare Projects"
+    tag = "Healthcare Projects"
     
   [[content.filter_button]]
     name = "Natural Language Processing"
@@ -42,8 +42,12 @@ subtitle = ""
     tag = "Big Data"
     
   [[content.filter_button]]
-    name = "test"
-    tag = "test"
+    name = "Deployment"
+    tag = "Deployment"
+    
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning"
     
   [[content.filter_button]]
     name = "Research"
