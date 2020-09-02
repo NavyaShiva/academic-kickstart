@@ -26,13 +26,9 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Machine Learning"
-    tag = "ML"
-    
-  [[content.filter_button]]
-    name = "Healthcare Projects"
-    tag = "Healthcare Projects"
-    
+    name = "Supervised Learning"
+    tag = "SL"
+ 
   [[content.filter_button]]
     name = "Deep Learning"
     tag = "Deep Learning"
