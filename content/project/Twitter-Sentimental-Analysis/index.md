@@ -1,6 +1,7 @@
 ---
-title: testt
-summary: Based on the time to event, implemented Survival Analysis in R to predict the patient survival after 7 years from the diagnosis date. Built Cox proportional hazard models, to find hazard ratio for each therapy, stage, and age group.  
+title: Twitter Sentimental Analysis using TF-IDF as feature 
+summary: Built a logistic regression model and gradient descent from scratch to find the best parameters that fit the model. Performed binary sentiment 
+classification to classify the tweet as good or bad by using TF-IDF as the feature.   
 tags:
 - ML
 - Healthcare Projects
