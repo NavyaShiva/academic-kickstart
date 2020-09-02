@@ -1,7 +1,6 @@
 ---
 title: Twitter Sentimental Analysis using TF-IDF as feature 
-summary: Built a logistic regression model and gradient descent from scratch to find the best parameters that fit the model. Performed binary sentiment 
-classification to classify the tweet as good or bad by using TF-IDF as the feature.   
+summary: Built a logistic regression model and gradient descent from scratch to find the best parameters that fit the model. Performed binary sentiment classification to classify the tweet as good or bad by using TF-IDF as the feature.   
 tags:
 - ML
 - Healthcare Projects
