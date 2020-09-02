@@ -46,14 +46,6 @@ subtitle = ""
     tag = "Deployment"
     
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
-    
-  [[content.filter_button]]
-    name = "Research"
-    tag = "Research"
-    
-  [[content.filter_button]]
     name = "Tableau"
     tag = "Tableau"
 
