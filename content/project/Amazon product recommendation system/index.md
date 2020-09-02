@@ -1,6 +1,6 @@
 ---
 title: Product Recommendation System
-summary: •	Implemented Spark RDD operations on product reviews to clean the data, and formed TF-IDF vectorization. Built a recommendation system 
+summary: Implemented Spark RDD operations on product reviews to clean the data, and formed TF-IDF vectorization. Built a recommendation system 
 using ALS Collaborative Filtering to recommend products obtaining 0.91 RMSE.    
 
 tags:
