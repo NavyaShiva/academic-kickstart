@@ -1,6 +1,8 @@
 ---
 title: Product Recommendation System
-summary: Built content based recommendation and also product based search recommendation system using ALS algorithm on Big Data
+summary: •	Implemented Spark RDD operations on product reviews to clean the data, and formed TF-IDF vectorization. Built a recommendation system 
+using ALS Collaborative Filtering to recommend products obtaining 0.91 RMSE.    
+
 tags:
 - NLP
 - Big Data
