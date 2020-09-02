@@ -1,10 +1,11 @@
 ---
 title: Twitter Sentiment Analysis
 summary: Built a logistic regression model and gradient descent from scratch to find the best parameters that fit the model. Performed binary sentiment 
-classification to classify the tweet as good or bad by using TF-IDF as the feature.  
+classification to classify the tweet as good or bad by using TF-IDF as the feature. 
+  
 tags:
 - ML
-- NLP
+- Healthcare Projects
 date: "2020-07-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
